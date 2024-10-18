@@ -64,7 +64,9 @@ My BioData,
 -
 -
 About the page ( project reference: https://github.com/tempatmaingameonline/XML ),
-- this page will develop by many/much peoples from my original residence planet, especially the peoples whom original eye balls colour " blue " ( also yellow hair ). In every section ( ie: section I ~ Python tool ~, section II ~ python security ~, etc ), it will fill with at least ( minimum ) 100000000000 scripts/softwares.
+- this page will develop by many/much peoples from my original residence planet, especially the peoples whom original eye balls colour " blue " ( also yellow hair ). In every section ( ie: section I ~ Python tool ~, section II ~ python security ~, etc ), it will fill with at least ( minimum ) 100000000000000 scripts/softwares/creations/designs.
+- why the penalty 100000000000000 scripts/softwares/creations/designs ?
+answer: because we ( i, my original father, my original mother, my teams/groups, etc. original residence: not that planet and galaxy ) were involved disturb their planet ( included the ecosystem and habitation ) while the planet suffering " Supernova " ( universe disaster ) and " massive flood " ( nature disaster ) in the past.
 -
 Adios !!!
 -
